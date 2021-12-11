@@ -1,0 +1,19 @@
+{
+    "name": "PANDA",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2PhzevznMwEPfwVzvRbxE1pEpuFSsP4eMauGBKDUEe67",
+          "share": 100
+        }
+      ]
+    }
+  }
